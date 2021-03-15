@@ -1,3 +1,26 @@
+# MKM_KEEP 
+
+- ## MKM_KEEP is a note-taking service . Keep offers a variety of tools for taking notes, including text, lists, images, and audio. Users can set reminders. 
+
+- ### package.json File
+https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/package.json
+
+- ### Image Galary 
+
+- ![alt text](https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/PICS/c1.PNG)
+
+- ![alt text](https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/PICS/c2.PNG)
+
+- ![alt text](https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/PICS/c3.PNG)
+
+- ![alt text](https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/PICS/c4.PNG)
+
+- ![alt text](https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/PICS/c5.PNG)
+
+- ![alt text](https://github.com/MohitKumarMandhre/MKM_Keep_App/blob/main/PICS/c6.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
